@@ -10,14 +10,13 @@ body{
 
 }
 main{
+    background-color: white;
 
     width: 500px;
 
     margin: auto;
 
-    background-color: white;
-
-    padding: 20px;
+    padding: 10px;
 
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.432);
 
